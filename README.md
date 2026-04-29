@@ -16,6 +16,9 @@ This project is a simple AI chatbot built using Python. It can understand user i
 - Simple natural language understanding  
 - Interactive command-line chatbot  
 - Easy to extend with more responses  
+- Provides dynamic responses using Python logic  
+- Can display real-time date and time  
+- Handles multiple user queries  
 
 ---
 
